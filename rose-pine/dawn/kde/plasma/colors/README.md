@@ -1,4 +1,5 @@
 # Rosé Pine Dawn
+## For KDE Plasma Colors
 1. Save this file to `~/.local/share/color-schemes`
 2. Navigate to KDE Plasma > Settings > Appearance > Colors
 
