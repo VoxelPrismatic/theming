@@ -1,0 +1,24 @@
+{
+    "__name__": "Rosé Sakura",
+    "paint": {
+        "love": "#d87576",
+        "gold": "#b4b433",
+        "rose": "#d875a7",
+        "pine": "#466481",
+        "foam": "#6996c2",
+        "iris": "#696ac2",
+        "tree": "#39c780"
+    },
+    "dawn": {
+        "base": "#faedf3",
+        "text": "#464681"
+    },
+    "main": {
+        "base": "#15060e",
+        "text": "#cbcbe3"
+    },
+    "moon": {
+        "base": "#3d1127",
+        "text": "#cbcbe3"
+    }
+}
